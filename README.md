@@ -1,12 +1,12 @@
-# Titanic Data Cleaning & Pre-processing 🚢
-
+# Titanic Data Cleaning & Pre-processing 
+![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 **Author:** Tirtha Dutta  
 **Date:** 23 June 2025  
 **Dataset:** [Kaggle – Yasser H Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Demonstrate a beginner-friendly, fully documented cleaning pipeline:
 
@@ -19,7 +19,7 @@ Demonstrate a beginner-friendly, fully documented cleaning pipeline:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 To run this project locally:
 
