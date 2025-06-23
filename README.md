@@ -35,4 +35,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 # Launch the notebook
-jupyter lab notebooks/01_cleaning_walkthrough.ipynb
+jupyter lab notebooks/01_clea_
