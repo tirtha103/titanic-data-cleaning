@@ -1,7 +1,6 @@
 # Titanic Data Cleaning & Pre-processing 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 
-
 **Author:** Tirtha Dutta  
 **Date:** 23 June 2025  
 **Dataset:** [Kaggle – Yasser H Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
@@ -10,14 +9,14 @@
 
 ##  Objective
 
-Demonstrate a beginner-friendly, fully documented cleaning pipeline:
+This project walks through a simple, step-by-step data cleaning and preprocessing pipeline that is friendly even for beginners. The key steps include:
 
 1. **Load & inspect** nulls + data types  
-2. **Handle missing values** (median / mode, drop Cabin)  
+2. **Handle missing values** (median / mode, drop `Cabin`)  
 3. **Encode categoricals** (`Sex`, `Embarked`)  
 4. **Standardize numerics** (`Age`, `Fare`)  
-5. **Detect & trim outliers** with boxplots + IQR  
-6. **Save** a ready-to-model `titanic_cleaned.csv`
+5. **Detect & trim outliers** using boxplots + IQR  
+6. **Save** a clean dataset as `titanic_cleaned.csv`
 
 ---
 
@@ -37,4 +36,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 # Launch the notebook
-jupyter lab notebooks/01_clea_
+jupyter lab notebooks/01_cleaning_walkthrough.ipynb
